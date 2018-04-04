@@ -47,7 +47,7 @@ After the network is trained, it is time to make the network produce full senten
 ```
 Before Training:
 I confessXvhYjyijV0OGBO!kX CLGfzfRwTbu'xiqaIs3&A5K?Uem"kYnlN0Y58w1??zWOk2xe'jxQSlDQCp3WbJIXdc"1ycDq&JFNSltR3sv0SNG?vtO?Sx,H6bHwGD,Bweqpojw7/J8bz'eSbvf
-After Training: 
+After Training:
 The legal songs on the same credit the long time, and you love a man without love, understanding.
 ```
 
@@ -60,4 +60,7 @@ There are so many improvement you can to in quote generator
 + Implement beam search method in generating part. 
 + Personalize quote with current mood (?). 
 
+Original code from [keras example](https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py) to generate text from Nietzche's writings. 
+
+I change the network architecture, the data and make prediction function so we can have fun
 Cheers! 
