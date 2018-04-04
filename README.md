@@ -63,4 +63,5 @@ There are so many improvement you can to in quote generator
 Original code from [keras example](https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py) to generate text from Nietzche's writings. 
 
 I change the network architecture, the data and make prediction function so we can have fun
-Cheers! 
+
+## Cheers! 
