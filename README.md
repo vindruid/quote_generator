@@ -2,6 +2,8 @@
 
 ![](https://images.unsplash.com/photo-1498435999018-6803de1f1c1f?ixlib=rb-0.3.5&s=e5fecd9f3003ad1f6b5eb51d69f4e930&auto=format&fit=crop&w=500&q=80)
 
+Look at my [Medium Article](https://medium.com/data-folks-indonesia/build-your-own-quotes-generator-3a23e9cbcff3)
+
 Dataset come from [Alvations in Kaggle.](https://www.kaggle.com/alvations/quotables/data)
 It consist of of 36,165 quotes with 878,450 words from 2,297 famous people (Author, singer, politician, sportsman, scientist, etc.).
 
